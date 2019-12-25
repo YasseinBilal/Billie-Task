@@ -1,0 +1,9 @@
+{
+  "short_name": "Billie",
+  "name": "Billie",
+  "start_url": "/billie/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/billie/",
+  "theme_color": "#3367D6"
+}
